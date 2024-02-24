@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.timer {
+  display: flex;
+  gap: 16px;
+}
+
+.value {
+  font-size: 60px;
+}
